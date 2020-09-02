@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Volume Manager</string>
+
+    <string name="ad_attribution">Ad</string>
+    <string name="app_id">ca-app-pub-4938515760572795~9791766630</string>
+    <string name="native_ad_unit_id">ca-app-pub-4938515760572795/2971686349</string>
+    <string name="banner_id">ca-app-pub-4938515760572795/4284768010</string>
+    <string name="inter_id">ca-app-pub-4938515760572795/9636070534</string>
+
+<!--    <string name="native_ad_unit_id">ca-app-pub-3940256099942544/2247696110</string>-->
+<!--    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="inter_id">ca-app-pub-3940256099942544/1033173712</string>-->
+
+</resources>
